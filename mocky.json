@@ -1,0 +1,31 @@
+{
+	"data": {
+		"dataResponseDukcapil": {
+			"alamat": "Tidak Sesuai (65)",
+			"jenisKelamin": "Sesuai",
+			"namaLengkap": "Sesuai (100)",
+			"namaLengkapIbu": "Tidak Sesuai (54)",
+			"nomorEKTP": "3216064704880019",
+			"tanggalLahir": "Sesuai",
+			"tempatLahir": "Sesuai (100)"
+		},
+		"detailValidasi": "Nama Lengkap Ibu tidak sesuai",
+		"flagValidasi": "N",
+		"kodeValidasi": "4"
+	},
+	"destinationURL": null,
+	"errorCode": "",
+	"errorDescription": "",
+	"isResponseMessage": true,
+	"isSuccess": true,
+	"maxMessageType": "None",
+	"messageDateTime": "2021-10-27T16:39:15.6991323+07:00",
+	"messageGUID": "953112C4-F527-4BA1-9DDA-93CF9E46DEB2",
+	"messages": [],
+	"moduleName": "WebOnboarding",
+	"parentMessageGUID": null,
+	"senderIP": "101.34.7.31",
+	"transactionMessageGUID": "A8B7D73D-760B-436E-A7E8-A5BB19BDBF23",
+	"userBranch": "996193",
+	"userNIK": "71001101"
+}
